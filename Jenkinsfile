@@ -1,4 +1,4 @@
-#!/usr/bin/env groovy
+#!/usr/bin/env groovy-Pipeline for deploy into cluster
 pipeline {
     agent any
     environment {
